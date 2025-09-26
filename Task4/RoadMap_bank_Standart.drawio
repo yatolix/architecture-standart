@@ -1,0 +1,100 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram id="6faDem5PxRRIMGQd80wj" name="Roadmap_change">
+    <mxGraphModel dx="5275" dy="3478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QlwB00z0-otb056kdUWZ-19" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2392" y="-964" width="1610" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-18" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2392" y="-1164" width="1610" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-3" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2392" y="-1380.8000000000002" width="1610" height="196.8" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-4" value="ABS-T1: REST контроллер получения ставок" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2382" y="-1374" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-5" value="ABS-T2: Формирование и загрузка CSV файла на SFTP" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2022" y="-1314" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-6" value="АБС&lt;div&gt;rates-service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-2522" y="-1380.8000000000002" width="120" height="196.8" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-8" value="Q2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-2387" y="-1564" width="1610" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-11" value="CCSB-T3: Реализовать кэширование" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1532" y="-1044" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-12" value="CCSB-T1: Получение ставок из АБС" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1812" y="-1154" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-14" value="Система колл-центра" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-2522" y="-1164" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QlwB00z0-otb056kdUWZ-15" value="Система&amp;nbsp; партнерского колл-центра" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-2522" y="-964" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-1" value="Апрель" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-2387" y="-1474" width="535" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-2" value="Май" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1849.5" y="-1474" width="535" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-3" value="Июнь" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1314.5" y="-1474" width="535" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-4" value="CCPS-T1: Поднять SFTP (+серты)" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1932" y="-944" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-5" value="ABS-T3: Интеграция формирования файла в процессы обновления ставок" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1692" y="-1339" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-6" value="ABS-T4: Настройка безопасности" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1692" y="-1234" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-7" value="ABS-T5: Настройка SFTP для тестирования" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2382" y="-1244" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-8" value="CCSB-T2: Реализовать экран со ставками" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1532" y="-1099" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-9" value="CCPS-T2: Реализовать отображение ссылки на файл" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1692" y="-884" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-10" value="ABS-T6: Тестирвоание REST контроллера" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2022" y="-1374" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-11" value="CCSB-T4: Тестирование" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1262" y="-1074" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-12" value="CCPS-T3: Тестирование" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1252" y="-884" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-13" value="ABS-T7: Тестирвоание отправки файлов" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1462" y="-1314" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L7iqRHTLYYxqUeMlN_Zn-4" target="L7iqRHTLYYxqUeMlN_Zn-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1752" y="-1164" as="sourcePoint" />
+            <mxPoint x="-1702" y="-1214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L7iqRHTLYYxqUeMlN_Zn-12" target="L7iqRHTLYYxqUeMlN_Zn-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1262" y="-999" as="sourcePoint" />
+            <mxPoint x="-1262" y="-1294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L7iqRHTLYYxqUeMlN_Zn-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QlwB00z0-otb056kdUWZ-12" target="L7iqRHTLYYxqUeMlN_Zn-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1832" y="-899" as="sourcePoint" />
+            <mxPoint x="-1832" y="-1194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
